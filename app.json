@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @hellboi_atul.",
+      "description": "Fill your Full name or Username like @Thesanskari_ladka.",
       "value": "",
       "required": false
     },
@@ -76,7 +76,7 @@
       "value": ""
     },
     "PLUGIN_CHANNEL": {
-      "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
+      "description": "Create a private group add @missfantasy_bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
       "value": ""
     },
     "PRIVATE_GROUP_BOT_API_ID": {
@@ -84,7 +84,7 @@
       "value": ""
     },
     "PRIVATE_GROUP_ID": {
-      "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
+      "description": "Create a private group add @missfantasy_bot bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
       "value": ""
     },
     "PM_LOGGR_BOT_API_ID": {
