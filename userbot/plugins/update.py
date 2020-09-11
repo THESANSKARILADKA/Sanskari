@@ -139,7 +139,7 @@ async def upstream(ups):
             remote.set_url(heroku_git_url)
         else:
             remote = repo.create_remote("heroku", heroku_git_url)
-        await ups.edit("Updating and Deploying New Update. Please wait for 5 minutes then use `.alive` to check if i'm working or not, you are my best boss...🤗🤗😎.. Just after this update a restart will take place..that's all- your DARK COBRA by @hellboi_atul ")
+        await ups.edit("Updating and Deploying New Update. Please wait for 5 minutes then use `.alive` to check if i'm working or not, you are my best boss...🤗🤗😎.. Just after this update a restart will take place..that's all- your SANSKARI USERBOT by @THESANSKARI_LADKA ")
         remote.push(refspec="HEAD:refs/heads/master", force=True)
     else:
         try:
