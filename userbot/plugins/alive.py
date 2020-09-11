@@ -5,7 +5,7 @@ from userbot import ALIVE_NAME
 from telethon.tl.types import ChannelParticipantsAdmins
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Unknown"
 PM_IMG = "https://telegra.ph/file/9a99aa9eedd0222c633d6.jpg"
-pm_caption = "**ᴅᴀʀᴋ ᴄᴏʙʀᴀ ɪꜱ ᴏɴʟɪɴᴇ**\n"
+pm_caption = "**𝚂𝙰𝙽𝚂𝙺𝙰𝚁𝙸 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙸𝚂 𝙾𝙽𝙻𝙸𝙽𝙴**\n"
 
 pm_caption += f"**M̴y̴ ̴B̴o̴s̴s̴**            : {DEFAULTUSER}\n"
 
@@ -15,7 +15,7 @@ pm_caption += "ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ          : [ᴊᴏɪɴ](ht
 
 pm_caption += "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ        : [ᴊᴏɪɴ](https://t.me/Dark_cobra_support_group)\n"
 
-pm_caption += "ʟɪᴄᴇɴꜱᴇ                 : [𝐒𝐀𝐍𝐒𝐊𝐀𝐑𝐈 𝐔𝐒𝐄𝐑𝐁𝐎𝐓](https://github.com/THESANSKARILADKA/Sanskari-Userbot/blob/master/LICENSE)\n"
+pm_caption += "ʟɪᴄᴇɴꜱᴇ                 : [𝐒𝐀𝐍𝐒𝐊𝐀𝐑𝐈 𝐁𝐎𝐓](https://github.com/THESANSKARILADKA/Sanskari-Userbot/blob/master/LICENSE)\n"
 
 pm_caption += "ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ            : [𝚂𝙰𝙽𝚂𝙺𝙰𝚁𝙸 𝙻𝙰𝙳𝙺𝙰](https://github.com/THESANSKARILADKA)\n"
 
