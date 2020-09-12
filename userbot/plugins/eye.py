@@ -29,14 +29,14 @@ async def _(event):
     animation_chars = [
 
             "👁👁\n  👄  =====> Abey Ja Na Gandu",
-            "👁👁\n  👅  =====> Abey Ja Na Madarchod",    
-            "👁👁\n  💋  =====> Abey Ja Na Randi",
-            "👁👁\n  👄  =====> Abey Ja Na Betichod",
-            "👁👁\n  👅  =====> Abey Ja Na Behenchod",    
-            "👁👁\n  💋  =====> Abey Ja Na Na Mard",
-            "👁👁\n  👄  =====> Abey Ja Na Randi",
-            "👁👁\n  👅  =====> Abey Ja Na Bhosdk",    
-            "👁👁\n  💋  =====> Abey Ja Na Chutiye",
+            "👁👁\n  👅  =====> Abey Ja Na Madarchod gndu h tu",    
+            "👁👁\n  💋  =====> Abey Ja Na Randi maa chuda sale",
+            "👁👁\n  👄  =====> Abey Ja Na Betichod sala phattu",
+            "👁👁\n  👅  =====> Abey Ja Na Behenchod kha kha se ajate h bhdwe",    
+            "👁👁\n  💋  =====> Abey Ja Na Na Mard maradangi k naam par kalank",
+            "👁👁\n  👄  =====> Abey Ja Na Randi gand mra bc tu",
+            "👁👁\n  👅  =====> Abey Ja Na Bhosdk bhn chuda",    
+            "👁👁\n  💋  =====> Abey Ja Na Chutiye gandu khe ka",
             "👁👁\n  👄  =====> Hi All, How Are You Guys..."
         ]
 
