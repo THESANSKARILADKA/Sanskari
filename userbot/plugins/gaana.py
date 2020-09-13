@@ -1,6 +1,6 @@
 
 # Port to UserBot
-# modified by @hellboi_atul
+# modified by @hellboi_atul nd @THESANSKARI_LADKA 
 # Copyright (C) 2020.
 
 from telethon import events
