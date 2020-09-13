@@ -1,5 +1,5 @@
 #Credit To @TheSanskari_ladka . Keep credit if you are going to edit it.
-Thx to @kraken_the_badass
+#Thx to @kraken_the_badass
 
 import random, re
 from uniborg.util import admin_cmd
