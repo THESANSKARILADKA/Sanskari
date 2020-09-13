@@ -117,7 +117,7 @@ async def upstream(ups):
         heroku_app = None
         heroku_applications = heroku.apps()
         if not HEROKU_APP_NAME:
-            await ups.edit('CAT Please set up the `HEROKU_APP_NAME` variable to be able to update userbot.')
+            await ups.edit('vro Please set up the `HEROKU_APP_NAME` variable to be able to update userbot.')
             repo.__del__()
             return
         for app in heroku_applications:
@@ -148,7 +148,7 @@ async def upstream(ups):
             repo.git.reset("--hard", "FETCH_HEAD")
         reqs_upgrade = await update_requirements()
         await ups.edit('`Successfully Updated!\n'
-                       'Bot is restarting... Wait for a second!`')
+                       'Bot is restarting... Wait for 5 mins!`')
         # Spin a new instance of bot
         args = [sys.executable, "-m", "userbot"]
         execle(sys.executable, *args, environ)
