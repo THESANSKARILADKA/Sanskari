@@ -1,4 +1,4 @@
-"""@telegraph Utilities Fix by @hellboi_atul
+"""@telegraph Utilities Fix by @thesanskari_ladka
 Available Commands:
 .telegraph media as reply to a media
 .telegraph text as reply to a large text"""
