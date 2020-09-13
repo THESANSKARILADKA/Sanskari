@@ -80,10 +80,10 @@ SANSKARI USERBOT
                 "**`Hey! I'm alive. All systems online and functioning normally!`**\n\n"
                 "` 🔸 Telethon version:` **1.15.0**\n` 🔹 Python:` **3.8.3**\n"
                 "` 🔸 More info:` [SANSKARI USERBOT](https://github.com/THESANSKARILADKA/Sanskari-Userbot)\n"
-                "` 🔹 Bot created by:` [@hellboi_atul](https://t.me/hellboi_atul)\n"
+                "` 🔹 Bot created by:` [@thesanskari_ladka](https://t.me/thesanskari_ladka)\n"
                 f"` 🔸 TeleBot Uptime:` {uptime}\n"
                 "` 🔸 Database Status:` **All OK 👌!**\n"
                 f"` 🔹 My pro owner`: {DEFAULTUSER}\n\n"
-                "    [✨ GitHub Repository ✨](https://github.com/DARK-COBRA/DARKCOBRA)", link_preview = False)
+                "    [✨ GitHub Repository ✨](https://github.com/THESANSKARILADKA/Sanskari-Userbot)", link_preview = False)
         await borg.send_file(alive.chat_id, file=sticker) 
         await alive.delete()
