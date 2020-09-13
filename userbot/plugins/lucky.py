@@ -1,4 +1,4 @@
-# plugin by lejend @hellboi_atul
+# plugin by lejend @THESANSKARI_LADKA 
 """Emoji
 
 Available Commands:
