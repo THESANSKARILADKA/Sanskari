@@ -1,5 +1,5 @@
-# plugin made by @hellboi_atul
-# Copyright (C) DARK COBRA 2020.
+# plugin made by @hellboi_atul 
+# Copyright (C) SANSKARI USERBOT 2020.
 # if you change this line you are gay...bc fuck off!
 
 from telethon import events
