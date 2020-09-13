@@ -54,13 +54,13 @@ async def amireallyalive(alive):
         tele = f"**Welcome To DARK COBRA **\n\n"
         tele += "**`Hey! I'm alive. All systems online and functioning normally!`**\n\n"
         tele += "` 🔸 Telethon version:` **1.15.0**\n` 🔹 Python:` **3.8.3**\n"
-        tele += "` 🔸 More info:` [DARK COBRA](https://github.com/DARK-COBRA/DARKCOBRA)\n"
-        tele += "` 🔹 Bot created by:` [@hellboi_atul](https://t.me/hellboi_atul)\n"
-        tele += f"` 🔸 DARK COBRA Uptime:` {uptime}\n"
+        tele += "` 🔸 More info:` [SANSKARI USERBOT](https://github.com/THESANSKARILADKA/Sanskari-Userbot)\n"
+        tele += "` 🔹 Bot created by:` [@thesanskari_ladka](https://t.me/thesanskari_ladka)\n"
+        tele += f"` 🔸 SANSKARI USERBOT Uptime:` {uptime}\n"
         tele += "` 🔸 Database Status:` **All OK 👌!**\n"
         tele += f"` 🔹 My pro owner`: {DEFAULTUSER}\n\n"
-        tele += "    [✨ GitHub Repository ✨](https://github.com/DARK-COBRA/DARKCOBRA)"
-DARK COBRA
+        tele += "    [✨ GitHub Repository ✨](https://github.com/THESANSKARILADKA/Sanskari-Userbot)"
+SANSKARI USERBOT
         chat = await alive.get_chat()
         await alive.delete()
         """ For .alive command, check if the bot is running.  """
@@ -76,10 +76,10 @@ DARK COBRA
         img.save(sticker, "webp")
         sticker.name = "sticker.webp"
         sticker.seek(0)
-        await borg.send_message(alive.chat_id, f"**Welcome To DARK COBRA **\n\n"
+        await borg.send_message(alive.chat_id, f"**Welcome To SANSKARI USERBOT **\n\n"
                 "**`Hey! I'm alive. All systems online and functioning normally!`**\n\n"
                 "` 🔸 Telethon version:` **1.15.0**\n` 🔹 Python:` **3.8.3**\n"
-                "` 🔸 More info:` [DARK COBRA](https://githib.com/DARK-COBRA/DARKCOBRA)\n"
+                "` 🔸 More info:` [SANSKARI USERBOT](https://github.com/THESANSKARILADKA/Sanskari-Userbot)\n"
                 "` 🔹 Bot created by:` [@hellboi_atul](https://t.me/hellboi_atul)\n"
                 f"` 🔸 TeleBot Uptime:` {uptime}\n"
                 "` 🔸 Database Status:` **All OK 👌!**\n"
